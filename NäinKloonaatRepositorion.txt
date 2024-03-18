@@ -1,0 +1,5 @@
+## 1.) Avaa GitHubista repositoriori jonka haluat kloonata.
+2.) Paina vihreästä kohdasta CODE ja kopioi repositorion URL.
+3.) Mene takaisin Visual Studio Codeen
+4.) Avaa Source Control.
+5.) Paina Clone Repository ja valitse kansio mihin haluat tiedot tallentaa.
